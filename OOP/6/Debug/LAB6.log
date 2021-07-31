@@ -1,0 +1,133 @@
+﻿  Circuit.cpp
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Weather.h(1,19): error C2011: 'Weather': 'enum' type redefinition
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Weather.h(1): message : see declaration of 'Weather'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59): error C2259: 'Car': cannot instantiate abstract class
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(3): message : see declaration of 'Car'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59): message : due to following members:
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59): message : 'void Car::setCap(void)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(7): message : see declaration of 'Car::setCap'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59): message : 'void Car::setCons(void)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(9): message : see declaration of 'Car::setCons'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59): message : 'void Car::setSpeed(void)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(11): message : see declaration of 'Car::setSpeed'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59): message : 'int Car::getCap(void)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(13): message : see declaration of 'Car::getCap'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59): message : 'int Car::getCons(void)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(15): message : see declaration of 'Car::getCons'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59): message : 'int Car::getSpeed(void)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(17): message : see declaration of 'Car::getSpeed'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59): message : 'void Car::Run(Weather)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(19): message : see declaration of 'Car::Run'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59,16): error C2259: 'Car': cannot instantiate abstract class
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(3): message : see declaration of 'Car'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59,16): message : due to following members:
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59,16): message : 'void Car::setCap(void)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(7): message : see declaration of 'Car::setCap'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59,16): message : 'void Car::setCons(void)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(9): message : see declaration of 'Car::setCons'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59,16): message : 'void Car::setSpeed(void)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(11): message : see declaration of 'Car::setSpeed'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59,16): message : 'int Car::getCap(void)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(13): message : see declaration of 'Car::getCap'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59,16): message : 'int Car::getCons(void)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(15): message : see declaration of 'Car::getCons'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59,16): message : 'int Car::getSpeed(void)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(17): message : see declaration of 'Car::getSpeed'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(59,16): message : 'void Car::Run(Weather)': is abstract
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(19): message : see declaration of 'Car::Run'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(69,21): error C2440: '=': cannot convert from 'Car *' to 'int'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Circuit.cpp(69,18): message : There is no context in which this conversion is possible
+  Dacia.cpp
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(46,8): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(48,59): error C3867: 'Dacia::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(48,59): error C2297: '*': illegal, right operand has type 'int (__thiscall Dacia::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(50,62): error C3867: 'Dacia::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(50,62): error C2297: '*': illegal, right operand has type 'int (__thiscall Dacia::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(53,9): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(55,60): error C3867: 'Dacia::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(55,60): error C2297: '*': illegal, right operand has type 'int (__thiscall Dacia::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(57,63): error C3867: 'Dacia::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(57,63): error C2297: '*': illegal, right operand has type 'int (__thiscall Dacia::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(60,10): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(62,61): error C3867: 'Dacia::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(62,61): error C2297: '*': illegal, right operand has type 'int (__thiscall Dacia::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(64,64): error C3867: 'Dacia::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Dacia.cpp(64,64): error C2297: '*': illegal, right operand has type 'int (__thiscall Dacia::* )(void)'
+  Ford.cpp
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(46,8): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(48,59): error C3867: 'Ford::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(48,59): error C2297: '*': illegal, right operand has type 'int (__thiscall Ford::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(50,62): error C3867: 'Ford::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(50,62): error C2297: '*': illegal, right operand has type 'int (__thiscall Ford::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(53,9): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(55,60): error C3867: 'Ford::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(55,60): error C2297: '*': illegal, right operand has type 'int (__thiscall Ford::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(57,63): error C3867: 'Ford::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(57,63): error C2297: '*': illegal, right operand has type 'int (__thiscall Ford::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(60,10): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(62,61): error C3867: 'Ford::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(62,61): error C2297: '*': illegal, right operand has type 'int (__thiscall Ford::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(64,64): error C3867: 'Ford::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Ford.cpp(64,64): error C2297: '*': illegal, right operand has type 'int (__thiscall Ford::* )(void)'
+  main.cpp
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Weather.h(1,19): error C2011: 'Weather': 'enum' type redefinition
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Weather.h(1): message : see declaration of 'Weather'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(3,11): error C2011: 'Car': 'class' type redefinition
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Car.h(3): message : see declaration of 'Car'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\main.cpp(16,24): error C2027: use of undefined type 'Weather'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Weather.h(1): message : see declaration of 'Weather'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\main.cpp(16,28): error C2065: 'Rain': undeclared identifier
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\main.cpp(18,20): error C2061: syntax error: identifier 'Dacia'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\main.cpp(20,21): error C2061: syntax error: identifier 'Toyota'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\main.cpp(22,23): error C2061: syntax error: identifier 'Mercedes'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\main.cpp(24,19): error C2061: syntax error: identifier 'Ford'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\main.cpp(26,20): error C2061: syntax error: identifier 'Mazda'
+  Mazda.cpp
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(46,8): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(48,59): error C3867: 'Mazda::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(48,59): error C2297: '*': illegal, right operand has type 'int (__thiscall Mazda::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(50,62): error C3867: 'Mazda::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(50,62): error C2297: '*': illegal, right operand has type 'int (__thiscall Mazda::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(53,8): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(55,60): error C3867: 'Mazda::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(55,60): error C2297: '*': illegal, right operand has type 'int (__thiscall Mazda::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(57,63): error C3867: 'Mazda::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(57,63): error C2297: '*': illegal, right operand has type 'int (__thiscall Mazda::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(60,9): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(62,61): error C3867: 'Mazda::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(62,61): error C2297: '*': illegal, right operand has type 'int (__thiscall Mazda::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(64,64): error C3867: 'Mazda::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mazda.cpp(64,64): error C2297: '*': illegal, right operand has type 'int (__thiscall Mazda::* )(void)'
+  Mercedes.cpp
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(46,8): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(48,59): error C3867: 'Mercedes::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(48,59): error C2297: '*': illegal, right operand has type 'int (__thiscall Mercedes::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(50,62): error C3867: 'Mercedes::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(50,62): error C2297: '*': illegal, right operand has type 'int (__thiscall Mercedes::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(53,9): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(55,60): error C3867: 'Mercedes::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(55,60): error C2297: '*': illegal, right operand has type 'int (__thiscall Mercedes::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(57,63): error C3867: 'Mercedes::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(57,63): error C2297: '*': illegal, right operand has type 'int (__thiscall Mercedes::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(60,10): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(62,61): error C3867: 'Mercedes::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(62,61): error C2297: '*': illegal, right operand has type 'int (__thiscall Mercedes::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(64,64): error C3867: 'Mercedes::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Mercedes.cpp(64,64): error C2297: '*': illegal, right operand has type 'int (__thiscall Mercedes::* )(void)'
+  Toyota.cpp
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(46,8): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(48,59): error C3867: 'Toyota::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(48,59): error C2297: '*': illegal, right operand has type 'int (__thiscall Toyota::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(50,62): error C3867: 'Toyota::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(50,62): error C2297: '*': illegal, right operand has type 'int (__thiscall Toyota::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(53,9): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(55,60): error C3867: 'Toyota::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(55,60): error C2297: '*': illegal, right operand has type 'int (__thiscall Toyota::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(57,63): error C3867: 'Toyota::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(57,63): error C2297: '*': illegal, right operand has type 'int (__thiscall Toyota::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(60,10): error C2676: binary '==': 'Weather' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(62,61): error C3867: 'Toyota::getCons': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(62,61): error C2297: '*': illegal, right operand has type 'int (__thiscall Toyota::* )(void)'
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(64,64): error C3867: 'Toyota::getSpeed': non-standard syntax; use '&' to create a pointer to member
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB6\Toyota.cpp(64,64): error C2297: '*': illegal, right operand has type 'int (__thiscall Toyota::* )(void)'
+  Generating Code...

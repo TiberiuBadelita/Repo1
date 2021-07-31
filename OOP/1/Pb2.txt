@@ -1,0 +1,41 @@
+#include <iostream>
+#include <fstream>
+#include <string.h>
+
+using namespace std;
+
+int convertTonum(char x[10])
+{
+    int numar=0;
+
+    for (int i = 0;i < strlen(x);i++)
+        numar = numar * 10 + (x[i] - 48);
+
+    return numar;
+
+}
+
+int main()
+{
+
+FILE *fptr;
+
+fptr=fopen("ini.txt","r");
+
+char s[10];
+
+int sum=0;
+
+fscanf(fptr,"%s",s);
+
+  while(!feof(fptr))
+  {
+    sum=sum+convertTonum(s);
+    fscanf(fptr,"%s",s);
+
+  }
+
+  printf("%d",sum);
+
+return 0;
+}

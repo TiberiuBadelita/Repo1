@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB8\main.cpp(12,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB8\main.cpp(37,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB8\main.cpp(47,22): warning C4018: '<': signed/unsigned mismatch
+  LAB8.vcxproj -> C:\Users\badel\OneDrive\Desktop\DOC Fac\B5_Badelita_Tiberiu-main\LAB8\Debug\LAB8.exe
