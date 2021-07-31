@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1609680975 source:c:\users\user\desktop\proiect\cinci pe linie cu sunete piese\main.cpp
+	<iostream>
+	<math.h>
+	<graphics.h>
+	<winbgim.h>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<MMSystem.h>
+
+1610635940 source:c:\projects\proiect\cinci pe linie cu sunete piese\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<math.h>
+	<graphics.h>
+	<winbgim.h>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<MMSystem.h>
+
+1610635940 source:c:\users\badel\videos\cinci pe linie cu sunete piese\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<math.h>
+	<graphics.h>
+	<winbgim.h>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<MMSystem.h>
+
